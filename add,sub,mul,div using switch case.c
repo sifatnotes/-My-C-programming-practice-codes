@@ -17,9 +17,7 @@ int main()
 
 
 
-
-
-	switch(ch){
+    switch(ch){
 
 		case '+':
 		add=a+b;	
